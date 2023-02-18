@@ -3,7 +3,7 @@
 We go through the tensorflow core APIs mostly in Tensorflow eager mode and perform Linear regression, Logistic Regression and implement the common optimizers used in machine learning
 
 ## Files
-
+```
 root
 |
 +-- data
@@ -26,6 +26,7 @@ root
 |   |   |-- main.c                              # Execute tests
 |
 |-- README.md
+```
 
 ## TODO
 
